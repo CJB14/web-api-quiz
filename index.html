@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body onload="renderQuestion()">
+<div id= "Wrapper">
+<div id="question">
+Ques :
+</div>
+<div id="queImage">
+Image
+</div>
+<div id="options">
+<div class="choice" id="A"></div>
+<div class="choice" id="B"></div>
+<div class="choice" id="C"></div>
+<div class="choice" id="D"></div>
+</div>
+<div id="numbers">
+<div id="correct">0</div>
+<div id="wrong">0</div>
+</div>
+<br/>
+<div id="buttons">
+<button id="next" name="nextBtn" value="NEXT" onclick="next()">NEXT</button>
+<button id="back" name="backBtn" value="BACK" onclick="back()">BACK</button>
+</div>
+</div>
+
+</body>
+<script src="script.js"></script>
+</html>
+
