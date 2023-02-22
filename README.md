@@ -24,6 +24,7 @@ To create a code quiz that will show the ablility to use html css and java scrip
 i want to create a timed quiz that tracks my  scores and gives me feedback on eachh  question
 
 ## Screenshot
-
+/Users/cameronburney/Desktop/Challenges/web-api-quiz/Screenshot 2023-02-21 at 8.35.14 PM (2).png
 
 ## Link
+https://cjb14.github.io/web-api-quiz/
