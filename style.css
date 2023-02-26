@@ -10,7 +10,7 @@ background: #000000;
 }
 ::selection{
 color: #fff;
-background: #007bff;
+background: #ffcc00;
 }
 .start_btn,
 .info_box,
@@ -71,7 +71,7 @@ font-size: 17px;
 }
 .info_box .info-list .info span{
 font-weight: 600;
-color: #007bff;
+color: #ffc800;
 }
 .info_box .buttons{
 height: 60px;
@@ -91,7 +91,7 @@ cursor: pointer;
 border: none;
 outline: none;
 border-radius: 5px;
-border: 1px solid #007bff;
+border: 1px solid #ffb300;
 transition: all 0.3s ease;
 }
 .quiz_box{
@@ -154,7 +154,7 @@ position: absolute;
 bottom: 0px;
 left: 0px;
 height: 3px;
-background: #007bff;
+background: #ffb700;
 }
 section{
 padding: 25px 30px 20px 30px;
@@ -170,7 +170,7 @@ display: block;
 }
 section .option_list .option{
 background: aliceblue;
-border: 1px solid #84c5fe;
+border: 1px solid #feee84;
 border-radius: 5px;
 padding: 8px 15px;
 font-size: 17px;
@@ -186,12 +186,12 @@ margin-bottom: 0px;
 }
 section .option_list .option:hover{
 color: #004085;
-background: #cce5ff;
+background: #fff1cc;
 border: 1px solid #b8daff;
 }
 section .option_list .option.correct{
 color: #155724;
-background: #d4edda;
+background: #ede5d4;
 border: 1px solid #c3e6cb;
 }
 section .option_list .option.incorrect{
@@ -252,8 +252,8 @@ border: none;
 outline: none;
 color: #fff;
 border-radius: 5px;
-background: #007bff;
-border: 1px solid #007bff;
+background: #ffae00;
+border: 1px solid #ffbb00;
 line-height: 10px;
 opacity: 0;
 pointer-events: none;
@@ -261,7 +261,7 @@ transform: scale(0.95);
 transition: all 0.3s ease;
 }
 footer button:hover{
-background: #0263ca;
+background: #eea805;
 }
 footer button.show{
 opacity: 1;
@@ -284,7 +284,7 @@ transition: all 0.3s ease;
 }
 .result_box .icon{
 font-size: 100px;
-color: #007bff;
+color: #ffae00;
 margin-bottom: 10px;
 }
 .result_box .complete_text{
@@ -315,21 +315,21 @@ cursor: pointer;
 border: none;
 outline: none;
 border-radius: 5px;
-border: 1px solid #007bff;
+border: 1px solid #ffb300;
 transition: all 0.3s ease;
 }
 .buttons button.restart{
 color: #fff;
-background: #007bff;
+background: #ffbf00;
 }
 .buttons button.restart:hover{
-background: #0263ca;
+background: #f8c704;
 }
 .buttons button.quit{
-color: #007bff;
+color: #ffc800;
 background: #fff;
 }
 .buttons button.quit:hover{
 color: #fff;
-background: #007bff;
+background: #ffcc00;
 }
