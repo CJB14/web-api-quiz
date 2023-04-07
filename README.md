@@ -1,5 +1,7 @@
-# web-api-quiz
-This quiz wil display a timed quiz with live feedback on correct and incorrect answers. At the end of the quiz you will receieve a score and an option to retry the quiz or exit.
+#  User story
+AS A coding boot camp student
+I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+SO THAT I can gauge my progress compared to my peers
 
 
 # Objective
@@ -24,7 +26,7 @@ To create a code quiz that will show the ablility to use html css and java scrip
 i want to create a timed quiz that tracks my  scores and gives me feedback on each  question.
 
 ## Screenshot
-/Users/cameronburney/Desktop/Challenges/web-api-quiz/Screenshot 2023-02-21 at 8.35.14 PM (2).png
+./Users/cameronburney/Desktop/Challenges/web-api-quiz/Screenshot 2023-04-06 at 8.05.35 PM.png
 
 ## Link
 https://cjb14.github.io/web-api-quiz/
